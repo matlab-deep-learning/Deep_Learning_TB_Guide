@@ -13,15 +13,15 @@
 なお、本ガイドで使用する機能の大部分は Deep Learning Toolbox に含まれていますが、一部のモデル設計の例題では、Statistics and Machine Learning Toolbox および System Identification Toolbox の機能を利用します。
 
 ### 1. はじめに
-[MATLABを利用する利点](https://github.com/nmaeda38/Deep_Learning_TB_Guide/tree/main/Why_MATLAB/index.md)  
+[MATLABを利用する利点](Why_MATLAB/index.md)  
 
 ### 2. 浅層ニューラルネットワーク
-**2.1 :** [深層の前にまずは浅層で理解を](https://github.com/nmaeda38/Deep_Learning_TB_Guide/tree/main/Shallow_NN/index.md)  
+**2.1 :** [深層の前にまずは浅層で理解を](Shallow_NN/index.md)  
 **2.2 :** [浅層用の時系列ネットワーク](Shallow_NN/TimeSeries.md)  
 
 ### 3. 深層ニューラルネットワーク
-**3.1 :** [「既にあるもの」を活用する:転移学習と特徴抽出](https://github.com/nmaeda38/Deep_Learning_TB_Guide/tree/main/Transfer_Learning/index.md)  
-**3.2 :** [Toolboxで利用可能な学習済モデル](https://github.com/nmaeda38/Deep_Learning_TB_Guide/tree/main/Pre_trained_network/index.md)  
+**3.1 :** [「既にあるもの」を活用する:転移学習と特徴抽出](Transfer_Learning/index.md)  
+**3.2 :** [Toolboxで利用可能な学習済モデル](Pre_trained_network/index.md)  
 **3.3 :** [深層学習で用いる主なデータストア](Datastore/index.md)  
 **3.4 :** [アプリケーション適用例](Applications/index.md)  
 **3.5 :** [ディープネットワークデザイナーアプリ](DeepNetworkDesigner/index.md)  
@@ -29,4 +29,4 @@
 ### 4. 運用・環境と用語集
 **4.1 :** [深層ネットワーク学習時におけるトラブルシューティング](Trouble_Shooting/index.md)  
 **4.2 :** [MATLAB上で深層学習する上でのマシンスペック](PC_Spec/index.md)  
-**4.3 :** [深層学習関連の用語集](https://github.com/nmaeda38/Deep_Learning_TB_Guide/tree/main/Index/index.md)
+**4.3 :** [深層学習関連の用語集](Index/index.md)
